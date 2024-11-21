@@ -11,7 +11,7 @@ I'm passionate about **software engineering** and **web development**. I love tu
 ## 🛠️ Technologies & Tools  
 
 ### Programming Languages  
-- **JavaScript, Python, C, C++, SQL, C#**  
+- **JavaScript, HTML, CSS, Python, C, C++, SQL, C#**  
 
 ### Tools & Platforms  
 - **Git, Docker**  
