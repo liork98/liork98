@@ -23,6 +23,3 @@ I'm passionate about **software engineering** and **web development**. I love tu
 ### [FruitNinja](https://github.com/liork98/FruitNinja)  
 
 Check out more [here](https://github.com/liork98?tab=repositories).  
-
-## 🌟 Fun Fact
-- I’m a big fan of **Pilates** and **Astrophysics** 😃
