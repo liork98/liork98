@@ -1,20 +1,20 @@
 
 # 👋 Hi, I'm Lior  
 
-I'm passionate about **software engineering** and **web development**. I love turning ideas into functional and efficient solutions, and I'm constantly exploring new technologies to expand my skills.  
+I'm passionate about **software engineering**. 
+I love turning ideas into functional and efficient solutions, and I'm constantly exploring new technologies to expand my skills.  
 
 ## 🚀 About Me  
-- 🌱 I’m currently diving deep into **web development** and exploring **machine learning** on my own.  
-- 👨‍💻 I’m excited to contribute my knowledge and skills to find a position as a **developer**.   
+- 🌱 I’m a software engineer.
 - 📫 Reach out via [email](mailto:liorkashi@gmail.com) or [LinkedIn](https://www.linkedin.com/in/liorkashi/).  
 
 ## 🛠️ Technologies & Tools  
 
 ### Programming Languages  
-- **JavaScript, HTML, CSS, Python, C, C++, SQL, C#**  
+- **JavaScript, Python, C, C++, SQL**  
 
 ### Tools & Platforms  
-- **Git, Docker**  
+- **Git, Docker, Postman**  
 
 ## 🏆 Projects 
 
